@@ -29,4 +29,7 @@ Execute o projeto
 ```bash
 npm run dev
 ```
+### Exemplo
 <img src="src/img/file.png" width="800" height="480" >
+
+### Acesse a página aqui 👉 https://infotempo.netlify.app/
