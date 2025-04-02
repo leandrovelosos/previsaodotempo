@@ -13,7 +13,7 @@ function WeatherInformations5Days({ weather5Days }) {
     }
 
 
-    const next5DaysForecast = Object.values(dailyForecast).slice(1, 6)
+    const next5DaysForecast = Object.values(dailyForecast).slice(0, 5)
 
 
     function convertDate(date) {
